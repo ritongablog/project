@@ -8,13 +8,14 @@ hidden;text-overflow:ellipsis;color:#fff;text-transform:uppercase;text-decoratio
 color:#fff;
 -moz-box-shadow:0 0 7px rgba(0,0,0,.7);box-shadow:0 0 7px rgba(0,0,0,.7)}
 .tabbed-toc .panel{position:relative;z-index:5;font:normal normal 12px/normal }.tabbed-toc 
-.panel li a{display:block;position:relative;font-weight:700;font-size:12px;color:#000;line-height:20px;height:20px;padding:0 12px;text-decoration:none;outline:0;overflow:hidden}
+.panel li a{display:block;position:relative;font-weight:700;font-size:12px;color:#000;line-height:20px;height:20px;
+  padding:0 12px;text-decoration:none;outline:0;overflow:hidden}
 
 
 .tabbed-toc .panel li .summary img.thumbnail{float:left;display:block;margin:0 8px 0 0;padding:4px;width:72px;height:72px;border
-:1px solid #dcdcdc;background-color:#fafafa}.tabbed-toc .panel li:nth-child(even){background-color:#FFE8E3}.tabbed-toc
+:1px solid #fff;background-color:#fff}.tabbed-toc .panel li:nth-child(even){background-color:#000}.tabbed-toc
 .panel li a:focus,.tabbed-toc .panel li a:hover,.tabbed-toc .panel li a:hover time,.tabbed-toc 
-.panel li.bold a{background-color:#333;color:#fff;outline:0}.tabbed-toc .panel li.bold a:hover,.tabbed-toc .panel li
+.panel li.bold a{background-color:#1E8BC3;color:#fff;outline:0}.tabbed-toc .panel li.bold a:hover,.tabbed-toc .panel li
 .bold a:hover time{background-color:#222}@media (max-width:700px){.tabbed-toc{border:2px solid #333}.tabbed-toc .toc-content,
 .tabbed-toc .toc-tabs{overflow:hidden;width:auto;float:none;display:block}.tabbed-toc .toc-tabs li{display:inline;float:left}
 .tabbed-toc .toc-tabs li a,.tabbed-toc .toc-tabs li a.active-tab{background-color:#224C19;-webkit-box-shadow:2px 0 7px
