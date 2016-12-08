@@ -1,10 +1,10 @@
 .tabbed-toc{margin:0 auto;background-color:#1E8BC3;-webkit-box-shadow:0 1px 3px rgba(0,0,0,.4);-moz-box-shadow:0 1px 3px 
 rgba(0,0,0,.4);box-shadow:0 1px 3px rgba(0,0,0,.4);overflow:hidden;position:relative;color:#333}.tabbed-toc
-.loading{display:block;padding:5px 10px;font:normal bold 10px/normal Helmet,FreeSans,Sans-Serif;color:#fff}
+.loading{display:block;padding:5px 10px;font:normal bold 10px/normal Helmet,FreeSans,Sans-Serif;color:#000000}
 .tabbed-toc li,.tabbed-toc ol,.tabbed-toc ul{margin:0;padding:0;list-style:none}.tabbed-toc .toc-tabs{width:20%;float:left}
-.tabbed-toc .toc-tabs li a{display:block;font:normal bold 10px/28px Helmet,Freesans,Sans-Serif;height:28px;overflow:
+.tabbed-toc .toc-tabs li a{display:block;font:normal  12px/28px ;height:28px;overflow:
 hidden;text-overflow:ellipsis;color:#ccc;text-transform:uppercase;text-decoration:none;padding:0 12px;cursor:pointer}.tabbed-toc
-.toc-tabs li a:hover{background-color:#153615;color:#fff}.tabbed-toc .toc-tabs li a.active-tab{background-color:#275827;
+.toc-tabs li a:hover{background-color:#153615;color:#fff}.tabbed-toc .toc-tabs li a.active-tab{background-color:#1E8BC3;
 color:#fff;-webkit-box-shadow:-2px 2px 2px rgba(0,0,0,.5);-moz-box-shadow:-2px 2px 2px rgba(0,0,0,.5);box-shadow:-2px 2px 2px
 rgba(0,0,0,.5);position:relative;z-index:5;margin:0 -1px 0 0}.tabbed-toc .toc-content,.tabbed-toc .toc-line{width:80%;float:right
 ;background-color:#fff;border-left:5px solid #275827;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}.tabbed-toc
