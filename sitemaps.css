@@ -20,5 +20,5 @@ color:#fff;
 .tabbed-toc .toc-tabs{overflow:hidden;width:auto;float:none;display:block}.tabbed-toc .toc-tabs li{display:inline;float:left}
 .tabbed-toc .toc-tabs li a,.tabbed-toc .toc-tabs li a.active-tab{background-color:#224C19;-webkit-box-shadow:2px 0 7px
 rgba(0,0,0,.4);-moz-box-shadow:2px 0 7px rgba(0,0,0,.4);box-shadow:2px 0 7px rgba(0,0,0,.4)}.tabbed-toc .toc-tabs 
-li a.active-tab{background-color:#fff;color:#333}.tabbed-toc 
+li a.active-tab{background-color:#fff;color:#333}.tabbed-toc
 .toc-content{border:none}.tabbed-toc .panel li time,.tabbed-toc .toc-line{display:none}}
